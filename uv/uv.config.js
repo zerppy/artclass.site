@@ -1,6 +1,6 @@
 self.__uv$config = {
-    prefix: '/service/',
-    bare: '/bare/',
+    prefix: 'https://idk.artclass.site/service/',
+    bare: 'https://idk.artclass.site/bare/',
     encodeUrl: Ultraviolet.codec.base64.encode,
     decodeUrl: Ultraviolet.codec.base64.decode,
     handler: 'https://idk.artclass.site/uv/uv.handler.js',
