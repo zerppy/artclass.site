@@ -39,7 +39,7 @@ var games = [
   {
     'id': 'thereisnogame',
     'title': 'There Is No Game',
-    'url': 'https://michealssciencework.netlify.app/gms/there-is-no-game/',
+    'url': '/gms/there-is-no-game/',
     'image': 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
   },
   {
