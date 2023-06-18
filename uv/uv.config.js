@@ -3,8 +3,8 @@ self.__uv$config = {
     bare: '/bare/',
     encodeUrl: Ultraviolet.codec.base64.encode,
     decodeUrl: Ultraviolet.codec.base64.decode,
-    handler: '/uv/uv.handler.js',
-    bundle: '/uv/uv.bundle.js',
-    config: '/uv/uv.config.js',
-    sw: '/uv/uv.sw.js',
+    handler: 'https://idk.artclass.site/uv/uv.handler.js',
+    bundle: 'https://idk.artclass.site/uv/uv.bundle.js',
+    config: 'https://idk.artclass.site/uv/uv.config.js',
+    sw: 'https://idk.artclass.site/uv/uv.sw.js',
 };
