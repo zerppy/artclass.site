@@ -1,4 +1,5 @@
-<html class="hydrated"><head><style data-styles="">{visibility:hidden}.hydrated{visibility:inherit}</style><style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style><script src="https://browser.sentry-cdn.com/6.2.2/bundle.min.js" crossorigin="anonymous"></script><script src="chrome-extension://fdjamakpfbbddfjaooikfcpapjohcfmg/content/pageScripts/dashlane-tiresias-page-script.js" id="dashlane_tiresias"></script><script src="chrome-extension://fdjamakpfbbddfjaooikfcpapjohcfmg/content/pageScripts/dashlane-webauthn-page-script.js" id="dashlane_webauthn" name="forward_webauthn_ready"></script>
+<!DOCTYPE html>
+<head><style data-styles="">{visibility:hidden}.hydrated{visibility:inherit}</style><style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style><script src="chrome-extension://fdjamakpfbbddfjaooikfcpapjohcfmg/content/pageScripts/dashlane-tiresias-page-script.js" id="dashlane_tiresias"></script><script src="chrome-extension://fdjamakpfbbddfjaooikfcpapjohcfmg/content/pageScripts/dashlane-webauthn-page-script.js" id="dashlane_webauthn" name="forward_webauthn_ready"></script>
     <title>Search | Art Class</title>
     <link rel="icon" href="icon.png">
 
@@ -29,14 +30,14 @@
     <script defer="" data-api="/data/event" data-domain="artclass.site" src="/data/script.js"></script>
     <script async="" src="https://arc.io/widget.min.js#HC4S5PSX"></script>
     <script src="js/main.js"></script>
-<script src="chrome-extension://njgehaondchbmjmajphnhlojfnbfokng/js/contentScripts/dom.js"></script><link href="https://gateway.arc.io" crossorigin="" rel="preconnect" id="arc-preconnect-gateway" data-arc-widget=""><link href="https://webseed.arc.io" crossorigin="" rel="preconnect" id="arc-preconnect-webseed" data-arc-widget=""><link href="https://static.arc.io/widget/js/core.js?9020903" rel="modulepreload" as="script" id="arc-preload-corejs" data-arc-widget=""><script src="https://static.arc.io/widget/js/core.js?9020903" type="module" async="" id="arc-corejs" data-arc-widget=""></script><script src="https://static.arc.io/widget/js/core-legacy.js?9020903" nomodule="" async="" id="arc-corejs-legacy" data-arc-widget=""></script><script charset="utf-8" src="https://static.arc.io/widget/js/vendors~widget-ui.js?c9b0de53"></script><link rel="stylesheet" type="text/css" href="https://static.arc.io/widget/css/widget.css?9020903"><script charset="utf-8" src="https://static.arc.io/widget/js/widget-ui.js?9c5947c3"></script><iframe hidden=""></iframe></head>
+<link href="https://gateway.arc.io" crossorigin="" rel="preconnect" id="arc-preconnect-gateway" data-arc-widget=""><link href="https://webseed.arc.io" crossorigin="" rel="preconnect" id="arc-preconnect-webseed" data-arc-widget=""><link href="https://static.arc.io/widget/js/core.js?9020903" rel="modulepreload" as="script" id="arc-preload-corejs" data-arc-widget=""><script src="https://static.arc.io/widget/js/core.js?9020903" type="module" async="" id="arc-corejs" data-arc-widget=""></script><script src="https://static.arc.io/widget/js/core-legacy.js?9020903" nomodule="" async="" id="arc-corejs-legacy" data-arc-widget=""></script><script src="chrome-extension://njgehaondchbmjmajphnhlojfnbfokng/js/contentScripts/dom.js"></script><script charset="utf-8" src="https://static.arc.io/widget/js/vendors~widget-ui.js?c9b0de53"></script><link rel="stylesheet" type="text/css" href="https://static.arc.io/widget/css/widget.css?9020903"><script charset="utf-8" src="https://static.arc.io/widget/js/widget-ui.js?9c5947c3"></script></head>
 
-<body class="" style=""><iframe id="arc-broker" src="https://core.arc.io/broker.html?9020903" title="Arc.io Broker Iframe" sandbox="allow-scripts allow-same-origin allow-top-navigation-by-user-activation" loading="eager" data-arc-widget="" style="opacity: 0 !important; width: 0px !important; height: 0px !important; border: none !important; top: -9999px !important; left: -9999px !important; position: fixed !important; visibility: hidden !important; user-select: none !important;" data-dashlane-frameid="24245"></iframe><p>
+<body class="" style=""><iframe id="arc-broker" src="https://core.arc.io/broker.html?9020903" title="Arc.io Broker Iframe" sandbox="allow-scripts allow-same-origin allow-top-navigation-by-user-activation" loading="eager" data-arc-widget="" style="opacity: 0 !important; width: 0px !important; height: 0px !important; border: none !important; top: -9999px !important; left: -9999px !important; position: fixed !important; visibility: hidden !important; user-select: none !important;"></iframe><p>
 
 </p>
 
 
-    <div id="particles-js"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="836" height="606"></canvas></div>
+    <div id="particles-js"><canvas class="particles-js-canvas-el" width="846" height="617" style="width: 100%; height: 100%;"></canvas></div>
     <script src="js/particles.min.js"></script>
     <script src="js/particles.js"></script>
 
@@ -53,13 +54,13 @@
   <div class="container">
     <img src="/icon.png" alt="Logo">
     <ul>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/"><ion-icon class="hvr-icon md hydrated" name="home" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Home</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/gs.html"><ion-icon class="hvr-icon md hydrated" name="game-controller" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Games</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/apps.html"><ion-icon class="hvr-icon md hydrated" name="apps" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Apps</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/emulator.html"><ion-icon class="hvr-icon md hydrated" src="../assets/joystick.svg" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Emulator</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/search.html"><ion-icon class="hvr-icon md hydrated" name="search" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Search</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/utils.html"><ion-icon class="hvr-icon md hydrated" name="hammer" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Utilities</a></li>
-      <li data-m="bounce-down" class="hvr-underline-from-center hvr-underline-from-center"><a href="/settings.html"><ion-icon class="hvr-icon md hydrated" name="cog" data-dashlane-shadowhost="true" role="img" data-dashlane-observed="true"></ion-icon> Settings</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/"><ion-icon class="hvr-icon md hydrated" name="home" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Home</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/gs.html"><ion-icon class="hvr-icon md hydrated" name="game-controller" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Games</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/apps.html"><ion-icon class="hvr-icon md hydrated" name="apps" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Apps</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/emulator.html"><ion-icon class="hvr-icon md hydrated" src="../assets/joystick.svg" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Emulator</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/search.html"><ion-icon class="hvr-icon md hydrated" name="search" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Search</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center"><a href="/utils.html"><ion-icon class="hvr-icon md hydrated" name="hammer" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Utilities</a></li>
+      <li data-m="bounce-down" class="hvr-underline-from-center hvr-underline-from-center"><a href="/settings.html"><ion-icon class="hvr-icon md hydrated" name="cog" data-dashlane-shadowhost="true" data-dashlane-observed="true" role="img"></ion-icon> Settings</a></li>
     </ul>
   </div>
 </nav>
@@ -69,11 +70,11 @@
     <script src="js/navbar.js"></script><script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script><script src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     
     <div id="container">
-        <div style="margin-bottom: 150px; display: none;" id="what" data-dashlane-rid="ae30477f4e2d0f0e">
+        <div style="margin-bottom: 150px; display: none;" id="what" data-dashlane-rid="723f071707ef789c">
             <h1>Search the web</h1>
-            <input id="input" class="input" placeholder=" Search" data-dashlane-rid="13f6bffe21ca69bf">
+            <input id="input" class="input" placeholder=" Search" data-dashlane-rid="71436b94d3c130c3">
         </div>
-        <iframe id="prxy" style="display: block;" src="https://artclass.site/service/aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g%2FcT1oZWxsbw%3D%3D"></iframe>
+        <iframe id="prxy" style="display: block;" src="/service/aHR0cDovL2dvb2dsZS5jb20v"></iframe>
     </div>
 
 
