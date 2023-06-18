@@ -39,7 +39,7 @@ var games = [
   {
     'id': 'thereisnogame',
     'title': 'There Is No Game',
-    'url': 'https://rawcdn.githack.com/3kh0/3kh0-Assets/e3144855e924629d8f7c41238660a823a5336705/there-is-no-game/index.html',
+    'url': 'https://michealssciencework.netlify.app/gms/there-is-no-game/',
     'image': 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
   },
   {
